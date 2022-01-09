@@ -81,7 +81,7 @@ ul {
 /* start header ---------------------------------------------------- */
 header {
   background-color: var(--dark-color);
-  background-image: url(/imgs/landing.jpg);
+  background-image: url(../imgs/landing.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: auto;
